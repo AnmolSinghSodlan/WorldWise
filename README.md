@@ -2,9 +2,11 @@
 
 ## Live Link
 
+https://world-wise-fawn-seven.vercel.app/
+
 ## Overview
 
-WorldWise is a web application designed to capture and share your travel experiences effortlessly. Built with React and utilizing the Geolocation API, WorldWise allows users to mark locations on a map, record travel details, and share memorable experiences.
+WorldWise is a React-based web application designed to effortlessly capture and share travel experiences. Leveraging the Geolocation API, users can mark locations on a map, record travel details, and share memorable experiences. The integration with Firebase, specifically Firestore, ensures secure data storage and retrieval, allowing users to seamlessly save and access their travel logs.
 
 ## Features
 
